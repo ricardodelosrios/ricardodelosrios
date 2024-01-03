@@ -28,6 +28,17 @@ In my industrial engineering days, I honed my skills in data analysis using tool
 * Bachelor of Science in Industrial Engineering from Universidad Sergio Arboleda, Colombia.
 * Data Analytics Boot Camp, University of Toronto, 2023.
 
+## Skills
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-61DBFB?style=for-the-badge&logo=Tableau&labelColor=black" />
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-61DBFB?style=for-the-badge&logo=Power%20BI&labelColor=black" />
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-61DBFB?style=for-the-badge&logo=Python&labelColor=black" />
+<div style="display: inline_block"><br/>
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-61DBFB?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=black" />
+
+
 🌐 Let's Connect
 I'm passionate about leveraging data to drive informed decisions and continuous improvement. Let's connect and explore the exciting intersection of data and innovation!
 
