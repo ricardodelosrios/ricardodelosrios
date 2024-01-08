@@ -37,6 +37,8 @@ In my industrial engineering days, I honed my skills in data analysis using tool
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-61DBFB?style=for-the-badge&logo=Python&labelColor=black" />
 <div style="display: inline_block"><br/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-61DBFB?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=black" />
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-61DBFB?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=black" />
 
 
 🌐 Let's Connect
