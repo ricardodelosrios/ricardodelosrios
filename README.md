@@ -39,7 +39,10 @@ In my industrial engineering days, I honed my skills in data analysis using tool
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-61DBFB?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=black" />
 <div style="display: inline_block"><br/>
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/Javascript-61DBFB?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=black" />
-
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-61DBFB?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black" />
+<div style="display: inline_block"><br/>
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-61DBFB?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black" />
 
 🌐 Let's Connect
 I'm passionate about leveraging data to drive informed decisions and continuous improvement. Let's connect and explore the exciting intersection of data and innovation!
